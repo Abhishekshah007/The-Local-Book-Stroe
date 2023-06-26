@@ -1,0 +1,39 @@
+.sidebar-nav {
+  margin-top: 20px;
+  padding: 0;
+  list-style: none;
+  color: red;
+  background-color: black;
+}
+
+li:active{
+  background-color: aliceblue;
+}
+
+li:hover{
+border: 1px solid rebeccapurple;
+border-radius: 10%;
+}
+body{
+  background-color: salmon;
+}
+
+.sidebar{
+  background: black;
+  height: 100vh;
+}
+
+.sidebar ul{
+  font-size: 20px;
+    font-family: fantasy;
+}
+
+.aside{
+  background: gainsboro;
+    padding: 25px;
+}
+
+hr{
+  width: '2px';
+  color:'red';
+}
